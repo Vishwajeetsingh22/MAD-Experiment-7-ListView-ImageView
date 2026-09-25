@@ -314,12 +314,11 @@ screenshots/output.png
 ### Main Output
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-09-25 at 11 13 44 PM" src="https://github.com/user-attachments/assets/9ae43fb3-1a5d-46c9-a69e-ff8a721235a7" />
-![Main Output](screenshots/output.png)
 
 ### Test Case 1
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-09-25 at 11 13 44 PM (1)" src="https://github.com/user-attachments/assets/8f090394-925e-4449-b3da-fa8168dfde83" />
-![Test Case 1](screenshots/test-case-1.png)
+
 
 
 ## 16. Result
@@ -331,10 +330,10 @@ The application successfully displays multiple student records with profile imag
 
 This experiment demonstrates how `ListView`, `ImageView`, custom layouts, and adapters can be combined to create a structured and interactive Android user interface. The Student Directory scenario provides a practical example of displaying multiple records in a scrollable and user-friendly format.
 
-## 17. 👨‍💻 Author
+## 👨‍💻 Author
 
-Vishwajeet Singh
-MCA Student
-USN: 25MCAR0219
-University: Jain (Deemed-to-be University), Bengaluru
-GitHub: Vishwajeetsingh22
+**Vishwajeet Singh**  
+MCA Student  
+**USN:** 25MCAR0219  
+**University:** Jain (Deemed-to-be University), Bengaluru  
+**GitHub:** [Vishwajeetsingh22](https://github.com/Vishwajeetsingh22)
